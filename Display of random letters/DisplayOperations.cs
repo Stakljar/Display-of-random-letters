@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Display_of_random_letters
 {
-    internal class DisplayOperations
+    internal static class DisplayOperations
     {
         static readonly Random random = new();
         static int initialWidth = Console.WindowWidth;
