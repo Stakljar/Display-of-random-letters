@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Display_of_random_letters
 {
-    internal class Utilities
+    internal static class Utilities
     {
         public static void ConfigureConsole()
         {
